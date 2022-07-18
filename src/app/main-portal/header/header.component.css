@@ -82,14 +82,16 @@ ul>li>a:hover {
     
         color: #fff !important;
         text-shadow:
-        0 0 6px #ca0404	,
-        0 0 6px #ca0404	,
-        0 0 6px #ca0404	,
-        0 0 6px #ca0404	,
-        0 0 6px #ca0404	,
-        0 0 6px #ca0404	,
-        0 0 6px #ca0404	,
-        0 0 6px #ca0404	;
+        0 0 6px #03fa2c,
+        0 0 6px #03fa2c,
+        0 0 6px #03fa2c,
+        0 0 6px #03fa2c,
+        0 0 6px #03fa2c,
+        0 0 6px #03fa2c,
+        0 0 6px #03fa2c,
+        0 0 6px #03fa2c,
+        0 0 6px #2204ca,
+      	;
           -moz-transition: all 0.2s ease-out;
         -o-transition: all 0.2s ease-out;
         -webkit-transition: all 0.2s ease-out;

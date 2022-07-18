@@ -1,6 +1,6 @@
 /******************************************************* Banner-Section **************************************************/
 .bgImg{
-  background-image: url('../../../assets/images/bg2.jpg');
+  background-image: url('https://images.unsplash.com/photo-1579200320647-1a468e9f0079?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGJsYWNrJTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
   height: 70vh;
   width: 100%;
   background-position: center center;
@@ -21,7 +21,7 @@
   
 }
 .blue{
-  color: #0f07ff;
+  color: #eb3e0a;
 }
 
 
@@ -41,7 +41,7 @@ h2{
  
 }
 .product-Heading span{
-  color: #0f07ff;
+  color: #f86503;
   font-weight: bolder;
  
 }

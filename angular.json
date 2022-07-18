@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "Tutorials"
+  "defaultProject": "Tutorials",
+  "cli": {
+    "analytics": false
+  }
 }

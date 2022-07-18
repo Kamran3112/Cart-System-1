@@ -2,8 +2,8 @@
   {"id": 1,
   "Name": "Cap",
   "image": [
-    "https://images.unsplash.com/photo-1610384466709-9b83df910cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGNhcHxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
-    "https://images.unsplash.com/photo-1587859165182-9afc12e90257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGNhcHxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+    "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "https://images.unsplash.com/photo-1589831377283-33cb1cc6bd5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     
     "https://images.unsplash.com/photo-1602337871614-a2bf032f4701?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTV8fGNhcHxlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
     "https://unsplash.com/photos/MadRHaCDg48",
@@ -11,7 +11,7 @@
   ],
   
   "title": "Best Brand Of Cap",
-  "qty": 10,
+  "qty": 15,
   "newQuantity":0,
   "productCategorie" : "Latest"
 },
@@ -20,14 +20,14 @@
     "id": 2,
     "Name": "Bag-Pack",
     "image": [
-      "https://images.unsplash.com/photo-1622260614153-03223fb72052?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmFja3BhY2t8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "https://images.unsplash.com/photo-1575844264771-892081089af5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGJhY2twYWNrfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1633437660198-51ac7243d2f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aGlraW5nJTIwYmFnfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1557599920-308c9509a255?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhpa2luZyUyMGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "https://unsplash.com/photos/6hpJZcqWt4I",
       "https://unsplash.com/photos/-miQCjAA3EY"
     ],
     
     "title": "Best Brand Of Ball",
-    "qty": 7,
+    "qty": 9,
     "newQuantity":0,
     "productCategorie" : "Latest"
   },
@@ -35,13 +35,13 @@
     "id": 3,
     "Name": "Gloves",
     "image": [
-      "https://images.unsplash.com/photo-1576722938199-5ff2809e8160?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGdsb3Zlc3xlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
-      "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIyfHxnbG92ZXN8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1579455134319-042f718340a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z2xvdmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1519766400364-8824dc3c4e26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGdsb3Zlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "https://images.unsplash.com/photo-1606834330324-544ea3bf3015?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM2fHxnbG92ZXN8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     ],
    
     "title": "Best Brand Of Bat",
-    "qty": 6,
+    "qty": 0,
     "newQuantity":0,
     "productCategorie" : "Latest"
   },
@@ -50,8 +50,8 @@
     "id": 4,
     "Name": "Shoes",
     "image": [
-      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" ,
-      "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1608667508764-33cf0726b13a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c25lYWtlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" ,
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c25lYWtlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       
       "https://unsplash.com/photos/vraH9m7hfHU"
@@ -66,8 +66,8 @@
     "id": 5,
     "Name": "Hoddies",
     "image": [
-      "https://images.unsplash.com/photo-1572983423767-fa0ff3d2bf81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvb2R8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "https://images.unsplash.com/photo-1489972536996-943907ea1cd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGhvb2R8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1512977141980-8cc662e38a0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9kZGllc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1622567893612-a5345baa5c9a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG9kZGllcyUyMGJsYWNrfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "https://images.unsplash.com/photo-1489972536996-943907ea1cd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGhvb2R8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "https://images.unsplash.com/photo-1489972536996-943907ea1cd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGhvb2R8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
       
@@ -75,15 +75,15 @@
     
     
     "title": "Best Brand Of Shoes",
-    "qty": 0,
+    "qty": 6,
     "newQuantity":0
   },
   {
     "id": 6,
     "Name": "Wrist-Watch",
     "image": [
-      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2F0Y2h8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "https://images.unsplash.com/photo-1622434641406-a158123450f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d2F0Y2h8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1614703418052-d5b893d495bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1582150264904-e0bea5ef0ad1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d3Jpc3R3YXRjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "https://images.unsplash.com/photo-1547996160-81dfa63595aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8d2F0Y2h8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0Y2h8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     ],

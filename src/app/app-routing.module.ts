@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { Component, NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AdminDefaultComponent } from './AdminPortal/admin-default/admin-default.component';
 import { CreateProductComponent } from './AdminPortal/AdminComponent/create-product/create-product.component';
@@ -6,7 +6,9 @@ import { DashboardComponent } from './AdminPortal/AdminComponent/dashboard/dashb
 import { ProductAnalyticsComponent } from './AdminPortal/AdminComponent/product-analytics/product-analytics.component';
 import { UserListComponent } from './AdminPortal/AdminComponent/user-list/user-list.component';
 import { SigninFormComponent } from './forms/signin-form/signin-form.component';
+import { AboutUsComponent } from './main-portal/about-us/about-us.component';
 import { CartComponent } from './main-portal/cart/cart.component'; 
+import { ContactUsComponent } from './main-portal/contact-us/contact-us.component';
 import { ProductComponent } from './main-portal/product/product.component';
 
 
@@ -27,7 +29,14 @@ const routes: Routes = [
   path:'sign-in',
   component:SigninFormComponent
 },
-
+{
+  path:'About-us',
+  component:AboutUsComponent
+},
+{
+  path:'Contact-us',
+  component:ContactUsComponent,
+},
 {
   path:'AdminPortal', component:AdminDefaultComponent,
 

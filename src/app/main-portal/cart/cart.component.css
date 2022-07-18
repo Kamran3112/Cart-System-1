@@ -13,8 +13,7 @@ img{
     border: 1px solid black;
     background: #ffff;
     margin-top: 10vh;
-    /* margin-left: 20px;
-    margin-right: 20px; */
+   
 }
 .productHeading{
     font-family: 'Yesteryear', cursive;
@@ -47,13 +46,9 @@ img{
     0 0 6px #ca0404	,
     0 0 6px #ca0404	,
     0 0 6px #ca0404	,
-    0 0 6px #ca0404	;
-    /* 0 0 6px #ca0404	,
-    0 0 6px #ca0404	,
-    0 0 6px #ca0404	,
-    0 0 6px #ca0404	,
-    0 0 6px #ca0404	; */
-      -moz-transition: all 0.2s ease-out;
+    0 0 6px #ca0404	; 
+    
+       -moz-transition: all 0.2s ease-out;
     -o-transition: all 0.2s ease-out;
     -webkit-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
@@ -105,4 +100,5 @@ img{
     width: 30%;
     display: block;
     border-radius: 0%;
-}
+} 
+
