@@ -30,13 +30,18 @@ const routes: Routes = [
   component:SigninFormComponent
 },
 {
-  path:'About-us',
+
+
+
+  path:"about-us",
   component:AboutUsComponent
 },
 {
-  path:'Contact-us',
-  component:ContactUsComponent,
+  path:"contact-us",
+  component:ContactUsComponent
 },
+
+
 {
   path:'AdminPortal', component:AdminDefaultComponent,
 

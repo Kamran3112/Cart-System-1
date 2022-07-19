@@ -1,6 +1,8 @@
 <nav class="navbar navbar-expand-lg bg-info  ">
     <div class="container-fluid">
-      <a class="navbar-brand text-white" href="#"><img src="../../../assets/images/fashion-removebg-preview.png" width="60px" height="60px" alt="" srcset=""></a>
+
+      <a class="navbar-brand text-white" href="#"><img src="../../../assets/images/logo.png" alt="" srcset="" height="40px" width="90px"></a>
+
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -10,14 +12,18 @@
             <a class="nav-link active" aria-current="page" routerLink="/product">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" routerLink="About-us">About Us</a>
+
+
+            <a class="nav-link active" routerLink="about-us">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" routerLink="Contact-us">Contact us</a>
+            <a class="nav-link active" routerLink="contact-us">Contact</a>
           </li>
         </ul>
-        <button type="button" class="btn btn-primary  me-2" routerLink="/sign-in">Login</button>
-        <button type="button" class="btn btn-dark   me-5">Sign-in</button>
+        <button type="button" class="btn btn-success  me-2" routerLink="/sign-in"><i class="fa-solid fa-arrow-right-to-bracket" ></i></button>
+        <a routerLink="/sign-in"></a>
+        <button type="button" class="btn btn-warning   me-5">Sign-in</button>
+
       </div>
     
       <i class="fa-solid fa-cart-arrow-down ms-auto me-5 text-dark"><p>{{counter}}</p></i>

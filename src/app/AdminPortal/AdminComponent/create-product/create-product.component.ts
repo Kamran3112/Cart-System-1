@@ -24,7 +24,9 @@ export class CreateProductComponent implements OnInit {
     this.productForm = this.formBuilder.group({
       Name:["",[Validators.required,Validators.minLength(4),Validators.maxLength(40),Validators.pattern(/^[A-Za-z]*$/)]],
       Email:["",[Validators.required,Validators.email]],
+
       _Image:['']
+
     })
   }
   getimage(Image:any){
@@ -37,14 +39,23 @@ export class CreateProductComponent implements OnInit {
 
   }
 
-  submitProductForm(){
-   let Myformvalue = new FormData();
-   Myformvalue.append('Name', this.productForm.get('Name').value)
-   Myformvalue.append('Email', this.productForm.get('Email').value)
-   Myformvalue.append('Image', this.productForm.get('_Image').value)
-   
 
-    
-  }
+  getImage(getImageData:any){
+//console.log(event);$event check in target.files
+const _getImage = getImageData.target.files[0];
+this.productForm.get("image").setValue(_getImage);
+console.log(_getImage);
+
+  };
+
+submitProductForm(){
+  console.log(this.productForm.value);
+  let  MyFormValue = new FormData();
+  
+  MyFormValue.append('Name',this.productForm.get('Name').value)
+  MyFormValue.append('Email',this.productForm.get('Email').value)
+  MyFormValue.append('Image',this.productForm.get('Image').value)
+  
+}
 
 }
